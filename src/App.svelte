@@ -7,6 +7,7 @@
 	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
 	<p>Man im having so much fun here, gh pages is free</p>
 	<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, omnis.  this is line 4</p>
+	<p>Lorem ipsum dolor sit amet. man line 3</p>
 </main>
 
 <style>
